@@ -19,4 +19,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake'
 
   spec.add_runtime_dependency 'momentjs-rails', '>= 2.8.1'
+  spec.add_runtime_dependency 'font-awesome-sass', '>= 4.5.0'
 end
